@@ -1,0 +1,16 @@
+{
+    "name": "956569011/chenbaotest",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "珍惜每一天",
+            "email": "896345130@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Aex\\Packagetest\\": "src/"
+        }
+    },
+    "require": {}
+}
