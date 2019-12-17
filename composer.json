@@ -12,5 +12,7 @@
             "Aex\\Packagetest\\": "src/"
         }
     },
-    "require": {}
+    "require": {
+        "php": ">=7.0.0"
+    }
 }
